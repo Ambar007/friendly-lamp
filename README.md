@@ -1,4 +1,4 @@
 # friendly-lamp
 First Git Repository 
 <br> 
-Author-Ambar Agrawal
+Author-Ambar Jain
